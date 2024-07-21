@@ -1,0 +1,14 @@
+From the coupons data, the following can be concluded:
+
+1. Looking at the distribution, there is a large proportion of data has the car values as Nan.
+ This probably indicates that there is not much value in analysing the data based on 'car; type
+ We can ignore this completely.
+
+2. Overall acceptance rate of coupons is ~56%
+
+3. Coffe House coupon type are the ones that are the most recommended.
+
+4. Bar coupons were less accepted
+
+5. Overall very less people went to bar more than 3 times of the week.
+ But among those people, the coupon acceptance rate was higher. 
